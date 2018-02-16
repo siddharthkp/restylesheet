@@ -15,7 +15,7 @@ npm install restylesheet --save
 
 ### Usage
 
-```js
+```jsx
 import React from 'react'
 import Stylesheet from "./restylesheet"
 
