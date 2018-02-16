@@ -7,13 +7,13 @@
 
 &nbsp;
 
-### install
+### Install
 
 ```
 npm install restylesheet --save
 ```
 
-### usage
+### Usage
 
 ```js
 import React from 'react'
@@ -25,6 +25,6 @@ const MyAwesomeApp = () => <div>
 </div>
 ```
 
-Try out the [codesandbox here](https://codesandbox.io/s/0p42mk9myn).
+Try out the [codesandbox here](https://codesandbox.io/s/pp7p2mwz5q).
 
 &nbsp;
