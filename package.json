@@ -1,0 +1,12 @@
+{
+  "name": "restylesheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "siddharthkp",
+  "license": "MIT",
+  "dependencies": {
+    "react-helmet": "5.2.0"
+  }
+}
